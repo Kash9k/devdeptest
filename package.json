@@ -1,0 +1,24 @@
+{
+  "name": "devdeptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4 <5"
+  },
+  "dependencies": {
+	"chai": "*"
+  },
+  "devDependencies": {
+  "mocha": "*",
+  "stylus": ">= 0.17.0"
+  }, 
+  "repository": "git@github.com:kash9k/devdeptest.git",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "kash9k",
+  "license": "MIT",
+  "description": "devdeptest"
+  
+}
